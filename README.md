@@ -1,4 +1,4 @@
-# WhatAapp App
+# WhatApp App
 
 ## About This App
 
